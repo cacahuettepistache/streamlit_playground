@@ -5,7 +5,7 @@ import streamlit as st
 from langchain.llms import OpenAI
 
 ### customize your title here ###
-st.title('🦜🔗 My first App')
+st.title('🦜🔗 Carole's HQ')
 
 # openai_api_key = st.sidebar.text_input('OpenAI API Key', type='password')
 
